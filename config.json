@@ -1,0 +1,24 @@
+{
+    "bot": {
+        "host": "127.0.0.1",
+        "port": 12345
+    },
+    "whitelist": {
+        "groups": [
+            1234,
+            5678
+        ],
+        "private": [
+            1234,
+            5678
+        ]
+    },
+    "paths": {
+        "image_folder": "images",
+        "video_folder": "videos"
+    },
+    "extension":{
+        "image":[".jpg", ".png", ".jpeg"],
+        "video":[".mp4", ".mkv", ".avi"]
+    }
+}
