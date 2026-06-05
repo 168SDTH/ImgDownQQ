@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 
-一个简洁高效的 QQ 群聊图片消息下载工具，支持自动分类和即时下载。
+一个简洁高效的 QQ 群聊图片消息下载工具，支持自动分类和即时下载，自动跳过动画表情。
 
 ## 功能简介
 
